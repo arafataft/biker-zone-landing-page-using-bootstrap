@@ -7409,7 +7409,9 @@ textarea.form-control-lg {
 .bg-warning {
   background-color: #ffc107 !important;
 }
-
+.bg-danger-subtle{
+  background-color: #f8d7da !important;
+}
 .bg-danger {
   background-color: #dc3545 !important;
 }
